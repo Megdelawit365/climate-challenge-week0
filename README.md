@@ -12,6 +12,8 @@ The project includes:
 ---
 
 ## Project Structure
+
+```bash
 climate-challenge-week0/
 ├── .github/
 │   └── workflows/
@@ -30,6 +32,7 @@ climate-challenge-week0/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
