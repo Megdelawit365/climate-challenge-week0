@@ -17,7 +17,7 @@ The project includes:
 climate-challenge-week0/
 ├── .github/
 │   └── workflows/
-│       └── ci.yml
+│       └── unittests.yml
 ├── data/
 ├── notebooks/
 │   ├── ethiopia_eda.ipynb
